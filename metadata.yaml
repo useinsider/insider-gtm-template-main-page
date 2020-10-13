@@ -1,0 +1,5 @@
+homepage: "https://useinsider.com/"
+documentation: "https://developers.useinsider.com/docs"
+versions:
+  - sha: 578fc247efc2b1e460509c0dee4857c4160b346e
+    changeNotes: First release main page identifier.
